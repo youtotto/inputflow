@@ -11,4 +11,4 @@ Releaseから `inputflow-for-kintone-1.0.0-free-bundle.zip` を取得して展�
 
 ## ダウンロード
 
-[最新の配布ファイル](https://github.com/youtotto/kintone-inputflow-plugin/releases/latest)から、上記のbundle ZIPを取得してください。ソースコード用の自動生成ZIPはインストール用ではありません。
+[最新の配布ファイル](https://github.com/youtotto/inputflow/releases/latest)から、上記のbundle ZIPを取得してください。ソースコード用の自動生成ZIPはインストール用ではありません。
